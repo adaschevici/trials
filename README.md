@@ -21,6 +21,10 @@
 4. start CRUD service `npx nodemon src/app.js`
 5. start UUID service `npx nodemon src/unique-id.js`
 
+## Running the tests
+```bash
+npm test
+```
 
 ## Working with the API (works with `curl`) but easily adapted to Postman or any other http client
 
